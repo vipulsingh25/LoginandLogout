@@ -1,0 +1,39 @@
+li{
+    list-style: none;
+    font-weight: bolder;
+    margin-left: 0px;
+}
+
+.details{
+    text-decoration-line: underline;
+    margin-bottom: 20px;
+}
+
+.homeform{
+    background-color: rgba(0, 0, 0, 0.144);
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 200px;
+}
+
+.homeform1{
+    background-color: rgba(0, 0, 0, 0.342);
+    width: 10%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.homeform1:hover{
+    background-color: black;
+}
+
+.homelink{
+    text-decoration-line: none;
+    color: white;
+    font-size: 30px;
+}
